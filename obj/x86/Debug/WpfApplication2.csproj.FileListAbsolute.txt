@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\WpfApplication2.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\校园网认证客户端.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\校园网认证客户端.exe.manifest
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\校园网认证客户端.application
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\校园网认证客户端.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\bin\Debug\校园网认证客户端.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\校园网认证客户端_MarkupCompile.cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\校园网认证客户端.g.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\校园网认证客户端.TrustInfo.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\校园网认证客户端.exe.manifest
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\校园网认证客户端.application
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\校园网认证客户端.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\WpfApplication2\WpfApplication2\obj\x86\Debug\校园网认证客户端.pdb
